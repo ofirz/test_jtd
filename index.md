@@ -4,5 +4,5 @@ layout: home
 ---
 
 
-Docs directory version
+Root Directory Version
 
